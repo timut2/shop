@@ -1,0 +1,16 @@
+{
+    "goods": [
+      {
+        "name": "Skateboard",
+        "photo": "https://example.com/photos/skateboard.jpg"
+      },
+      {
+        "name": "Laptop",
+        "photo": "https://example.com/photos/laptop.jpg"
+      },
+      {
+        "name": "Coffee Mug",
+        "photo": "https://example.com/photos/coffeemug.jpg"
+      }
+    ]
+  }

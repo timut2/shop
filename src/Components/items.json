@@ -1,0 +1,38 @@
+{
+    "goods": [
+      {
+        "name": "Skateboard",
+        "photo": "image1.jpg"
+      },
+      {
+        "name": "Laptop",
+        "photo": "image3.jp"
+      },
+      {
+        "name": "Coffee Mug",
+        "photo": "image2.jpg"
+      },
+      {
+        "name": "Skateboard",
+        "photo": "image1.jpg"
+      }, {
+        "name": "Skateboard",
+        "photo": "image1.jpg"
+      }, {
+        "name": "Skateboard",
+        "photo": "image1.jpg"
+      }, {
+        "name": "Skateboard",
+        "photo": "image1.jpg"
+      }, {
+        "name": "Skateboard",
+        "photo": "image1.jpg"
+      }, {
+        "name": "Skateboard",
+        "photo": "image1.jpg"
+      }, {
+        "name": "Skateboard",
+        "photo": "image1.jpg"
+      }
+    ]
+  }

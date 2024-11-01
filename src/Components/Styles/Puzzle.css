@@ -1,0 +1,39 @@
+/* Components/Puzzle.css */
+
+.puzzle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    position: relative;
+  }
+  
+  .lever {
+    width: 30px; 
+    height: 30px;
+    background-color: black;
+    border-radius: 45%; 
+    position: absolute; 
+    cursor: grab;
+    transition: transform 0.3s ease; 
+  }
+  
+  .path {
+    width: 160px; /* Диаметр круга */
+    height: 160px;
+    border: 2px dashed black; /* Путь отображается пунктирной линией */
+    border-radius: 50%; /* Делаем круг */
+    position: absolute; /* Позиционируем над контейнером */
+    top: 50%; /* Центрируем по вертикали */
+    left: 50%; /* Центрируем по горизонтали */
+    transform: translate(-50%, -50%); /* Центрируем элемент */
+    pointer-events: none; /* Чтобы путь не мешал взаимодействию с рычагом */
+  }
+  
+  .message {
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: center;
+  }
+  
